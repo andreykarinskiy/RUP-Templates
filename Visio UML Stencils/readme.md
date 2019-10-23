@@ -1,0 +1,1 @@
+Поместить в папку C:\Users\%username%\Documents\My Shapes
