@@ -1,7 +1,4 @@
 # RUP-Templates
 Русифицированные шаблоны основных документов RUP
 
-1. Vision
-2. Glossary
-3. Software Architecture Document
-4. ?
+![Схема зависимостей проектных документов](C:\Projects\GPNX\Doc\Шаблоны документов\Схема зависимостей проектных документов.svg)
