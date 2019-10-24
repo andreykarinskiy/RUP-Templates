@@ -43,6 +43,7 @@
 		<v:layer v:name="Pipelines" v:index="2"/>
 		<v:layer v:name="Valve" v:index="3"/>
 		<v:layer v:name="Flowchart" v:index="4"/>
+<<<<<<< HEAD
 		<g id="shape53-1" v:mID="53" v:groupContext="shape" v:layerMember="1" transform="translate(265.634,-717.71)">
 			<title>Dynamic connector</title>
 			<path d="M0 841.89 L53.05 803.79" class="st1"/>
@@ -60,6 +61,25 @@
 			<path d="M0 841.89 L-96.55 778.82" class="st1"/>
 		</g>
 		<g id="group21-22" transform="translate(252.134,-699.71)" v:mID="21" v:groupContext="group">
+=======
+		<g id="shape53-1" v:mID="53" v:groupContext="shape" v:layerMember="1" transform="translate(184.998,-726.661)">
+			<title>Dynamic connector</title>
+			<path d="M0 841.89 L52.91 818.46" class="st1"/>
+		</g>
+		<g id="shape56-7" v:mID="56" v:groupContext="shape" v:layerMember="1" transform="translate(240.126,-772.068)">
+			<title>Dynamic connector.56</title>
+			<path d="M0 841.89 L-118.17 884" class="st1"/>
+		</g>
+		<g id="shape59-12" v:mID="59" v:groupContext="shape" v:layerMember="1" transform="translate(245.939,-613.276)">
+			<title>Dynamic connector.59</title>
+			<path d="M6.49 841.89 L7.6 710.91" class="st1"/>
+		</g>
+		<g id="shape60-17" v:mID="60" v:groupContext="shape" v:layerMember="1" transform="translate(370.4,-613.276)">
+			<title>Dynamic connector.60</title>
+			<path d="M0 841.89 L-97.47 709.01" class="st1"/>
+		</g>
+		<g id="group21-22" transform="translate(253.626,-772.068)" v:mID="21" v:groupContext="group">
+>>>>>>> d99658c72048489054c1239b931a0145477b376c
 			<title>File</title>
 			<g id="shape22-23" v:mID="22" v:groupContext="shape" transform="translate(-13.5,18)">
 				<title>Sheet.22</title>
@@ -78,6 +98,7 @@
 				<path d="M3.37 837.39 L6.75 837.39" class="st3"/>
 				<text x="3.62" y="853.09" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Vision</text>			</g>
 		</g>
+<<<<<<< HEAD
 		<g id="shape57-36" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(259.175,-613.276)">
 			<title>Dynamic connector.57</title>
 			<path d="M0 841.89 L76.28 702.25" class="st1"/>
@@ -85,6 +106,15 @@
 		<g id="shape58-41" v:mID="58" v:groupContext="shape" v:layerMember="1" transform="translate(238.925,-613.276)">
 			<title>Dynamic connector.58</title>
 			<path d="M0 841.89 L-63.94 702.55" class="st1"/>
+=======
+		<g id="shape57-36" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(245.675,-613.276)">
+			<title>Dynamic connector.57</title>
+			<path d="M0 841.89 L-54.62 772.22" class="st1"/>
+		</g>
+		<g id="shape58-41" v:mID="58" v:groupContext="shape" v:layerMember="1" transform="translate(238.925,-613.276)">
+			<title>Dynamic connector.58</title>
+			<path d="M0 841.89 L-117.85 769.63" class="st1"/>
+>>>>>>> d99658c72048489054c1239b931a0145477b376c
 		</g>
 		<g id="shape61-46" v:mID="61" v:groupContext="shape" v:layerMember="1" transform="translate(363.65,-588.189)">
 			<title>Dynamic connector.61</title>
@@ -158,7 +188,11 @@
 			<title>Dynamic connector.78</title>
 			<path d="M7.09 841.89 L7.09 768.64" class="st1"/>
 		</g>
+<<<<<<< HEAD
 		<g id="group23-136" transform="translate(340.157,-779.528)" v:mID="23" v:groupContext="group">
+=======
+		<g id="group23-136" transform="translate(184.998,-708.661)" v:mID="23" v:groupContext="group">
+>>>>>>> d99658c72048489054c1239b931a0145477b376c
 			<title>File.23</title>
 			<g id="shape24-137" v:mID="24" v:groupContext="shape" transform="translate(-13.5,18)">
 				<title>Sheet.24</title>
@@ -177,7 +211,11 @@
 				<path d="M3.37 837.39 L6.75 837.39" class="st3"/>
 				<text x="-0.3" y="853.09" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Glossary</text>			</g>
 		</g>
+<<<<<<< HEAD
 		<g id="group25-150" transform="translate(157.397,-779.528)" v:mID="25" v:groupContext="group">
+=======
+		<g id="group25-150" transform="translate(99.2126,-708.661)" v:mID="25" v:groupContext="group">
+>>>>>>> d99658c72048489054c1239b931a0145477b376c
 			<title>File.25</title>
 			<g id="shape26-151" v:mID="26" v:groupContext="shape" transform="translate(-13.5,18)">
 				<title>Sheet.26</title>
@@ -442,10 +480,13 @@
 				<path d="M3.37 835.14 L23.62 835.14" class="st3"/>
 				<path d="M3.37 837.39 L6.75 837.39" class="st3"/>
 				<text x="-25.02" y="853.09" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Programming Guideline</text>			</g>
+<<<<<<< HEAD
 		</g>
 		<g id="shape79-346" v:mID="79" v:groupContext="shape" v:layerMember="1" transform="translate(326.657,-772.441)">
 			<title>Dynamic connector.79</title>
 			<path d="M0 834.8 L-145.95 834.8" class="st1"/>
+=======
+>>>>>>> d99658c72048489054c1239b931a0145477b376c
 		</g>
 	</g>
 </svg>
